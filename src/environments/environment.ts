@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    baseServerUrl: "https://api20240320120928.azurewebsites.net/",
+    baseServerUrl: "https://api20240320125652.azurewebsites.net/",
     relativeChatHub: "chats"
 };
